@@ -42,7 +42,7 @@ user name = "musa"
 student_name = "musa"  
 
 # Stores the age of the student in years (integer ) 
-student_age = 18  
+student_age = 21 
 
 # Stores the aggregate marks scored by the student (float )
 total_marks = 95.8
